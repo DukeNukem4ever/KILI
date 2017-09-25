@@ -1,6 +1,6 @@
 skippy62able: *Входит в комнату, затем внезапно падает на пол*
 Игорь@: *ухмылка*. 
-skippy62able: Helen Biggs here and today I'm gonna hit some things on the science on your-*падает, затем встаёт*
+skippy62able: LA Beast here and today I'm gonna hit some things on the science on your-*падает, затем встаёт*
 skippy62able (продолжение): Sorry about that, I hit my head. Early beast here today I've been inspired by fellow youtuber Nurd Rage. 
 Through his science tutorials I'velearned how to make hot ice and what I'm going to do today is find out if this ice is hot or cold! Now 
 for those of you don't know hot ice is also known as sodium acetate trihydrate. And when you boil it down into a liquid, cool it off and 
