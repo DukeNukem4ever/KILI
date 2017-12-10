@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences version="1.1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/Prefs_v1.1.xsd">
+    <prefList key="MultiTierViewer.TierOrder">
+        <String>skippy62able@text</String>
+        <String>Оператор@text</String>
+        <String>Игорь@text</String>
+        <String>Я@text</String>
+        <String>Наталия@text</String>
+    </prefList>
+    <pref key="LayoutManager.VisibleMultiTierViewer">
+        <String>mpi.eudico.client.annotator.viewer.TimeLineViewer</String>
+    </pref>
+    <prefList key="CommentViewer.Columns.Order">
+        <String>Время начала</String>
+        <String>Время окончания</String>
+        <String>Слой</String>
+        <String>Инициалы</String>
+        <String>Комментарий</String>
+        <String>Ветка</String>
+        <String>Отправитель</String>
+        <String>Получатель</String>
+        <String>Дата создания</String>
+        <String>Дата изменения</String>
+    </prefList>
+    <pref key="LayoutManager.SplitPaneDividerLocation">
+        <Int>1</Int>
+    </pref>
+    <pref key="MediaControlVolume">
+        <Float>1.0</Float>
+    </pref>
+    <pref key="LayoutManager.SelectedTabIndex">
+        <Int>6</Int>
+    </pref>
+    <prefGroup key="TierColors">
+        <pref key="skippy62able@text">
+            <Object class="java.awt.Color">160,0,160</Object>
+        </pref>
+        <pref key="Я@text">
+            <Object class="java.awt.Color">90,0,0</Object>
+        </pref>
+        <pref key="Оператор@text">
+            <Object class="java.awt.Color">0,0,160</Object>
+        </pref>
+        <pref key="Наталия@text">
+            <Object class="java.awt.Color">90,0,90</Object>
+        </pref>
+        <pref key="Игорь@text">
+            <Object class="java.awt.Color">0,90,90</Object>
+        </pref>
+    </prefGroup>
+    <prefList key="CommentViewer.Columns.Hidden">
+        <String>Получатель</String>
+        <String>Отправитель</String>
+    </prefList>
+    <prefGroup key="TierFonts"/>
+    <pref key="FrameLocation">
+        <Object class="java.awt.Point">658,189</Object>
+    </pref>
+    <pref key="InterlinearizationMode.LeftTopBottomSplit">
+        <Double>0.22727272727272727</Double>
+    </pref>
+    <pref key="SelectionBeginTime">
+        <Long>0</Long>
+    </pref>
+    <pref key="TokenizeDialog.SourceTier">
+        <String>Наталия@text</String>
+    </pref>
+    <pref key="IGTViewerRenderInfo.headerWidth">
+        <Int>100</Int>
+    </pref>
+    <pref key="LayoutManager.CurrentMode">
+        <Int>1</Int>
+    </pref>
+    <pref key="InterlinearizationMode.LeftRightSplit">
+        <Double>0.3375959079283887</Double>
+    </pref>
+    <pref key="MediaTime">
+        <Long>235438</Long>
+    </pref>
+    <prefGroup key="InterlinearizationMode.LexiconPanelPrefs">
+        <pref key="LexiconPanel.SelectedLexicon">
+            <String>none</String>
+        </pref>
+    </prefGroup>
+    <prefGroup key="TierHighlightColors"/>
+    <pref key="MediaControlRate">
+        <Float>1.0</Float>
+    </pref>
+    <pref key="FrameSize">
+        <Object class="java.awt.Dimension">800,600</Object>
+    </pref>
+    <pref key="InterlinearizationEditor.FontSize">
+        <Int>12</Int>
+    </pref>
+    <pref key="TokenizeDialog.DestTier">
+        <String>Наталия@text</String>
+    </pref>
+    <prefGroup key="InterlinearizationConfigurations.ExcludedTierConfigurations"/>
+    <prefGroup key="CommentViewer.Columns">
+        <pref key="Время окончания">
+            <Int>75</Int>
+        </pref>
+        <pref key="Комментарий">
+            <Int>75</Int>
+        </pref>
+        <pref key="Слой">
+            <Int>75</Int>
+        </pref>
+        <pref key="Ветка">
+            <Int>75</Int>
+        </pref>
+        <pref key="Дата изменения">
+            <Int>75</Int>
+        </pref>
+        <pref key="Инициалы">
+            <Int>75</Int>
+        </pref>
+        <pref key="Время начала">
+            <Int>75</Int>
+        </pref>
+        <pref key="Получатель">
+            <Int>0</Int>
+        </pref>
+        <pref key="Отправитель">
+            <Int>0</Int>
+        </pref>
+        <pref key="Дата создания">
+            <Int>75</Int>
+        </pref>
+    </prefGroup>
+    <pref key="MultiTierViewer.ActiveTierName">
+        <String>skippy62able@text</String>
+    </pref>
+    <pref key="InterlinearizationMode.RightTopBottomSplit">
+        <Double>0.9412878787878788</Double>
+    </pref>
+    <pref key="SegmentationManager.SelectedTabIndex">
+        <Int>0</Int>
+    </pref>
+    <pref key="AnalyzerConfigurationPanel.CurrentAnalyzer">
+        <String>Gloss Analyzer</String>
+    </pref>
+    <pref key="TimeScaleBeginTime">
+        <Long>229228</Long>
+    </pref>
+    <prefList key="MultiTierViewer.HiddenTiers"/>
+    <prefList key="InterlinearizationConfigurations"/>
+    <pref key="LayoutManager.MediaAreaHeight">
+        <Int>250</Int>
+    </pref>
+    <pref key="LayoutManager.MediaAreaWidth">
+        <Int>352</Int>
+    </pref>
+    <pref key="SelectionEndTime">
+        <Long>0</Long>
+    </pref>
+</preferences>
